@@ -14,10 +14,10 @@ DEPENDENCIES = [
 ]
 
 setup(
-    name='timeflux-example',
+    name='timeflux-biosignal',
     packages=find_packages(),
     version=VERSION,
-    description='An example Timeflux plugin.',
+    description='Timeflux biosignal plugin.',
     long_description=DESCRIPTION,
     author='Pierre Clisson',
     author_email='contact@timeflux.io',
